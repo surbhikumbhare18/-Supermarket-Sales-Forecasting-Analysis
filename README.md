@@ -1,4 +1,5 @@
 ## **🛒 Supermarket Sales & Forecasting Analysis**
+<img width="1305" height="734" alt="Screenshot 2025-10-13 173436" src="https://github.com/user-attachments/assets/7dd8f662-2376-454c-b1c7-f44fb8be327f" />
 
 **Project objective**
 
